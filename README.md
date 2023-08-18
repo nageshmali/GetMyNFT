@@ -1,34 +1,11 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
-## Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![Screenshot (737)](https://github.com/nageshmali/GetMyNFT/assets/98390062/e807f2e0-216b-42d1-966c-980ec039ae05)
+![Screenshot (738)](https://github.com/nageshmali/GetMyNFT/assets/98390062/35fc4ee1-1d14-4835-b563-9e2afbf4bed1)
+![Screenshot (739)](https://github.com/nageshmali/GetMyNFT/assets/98390062/650c659c-9c76-404d-9553-fbcf081ce943)
+![Screenshot (740)](https://github.com/nageshmali/GetMyNFT/assets/98390062/f0c68a37-9b01-47bc-b896-06a9945f0037)
+![Screenshot (741)](https://github.com/nageshmali/GetMyNFT/assets/98390062/2e21c86a-2f0f-4494-9fc1-f19379ccd1d1)
+![Screenshot (742)](https://github.com/nageshmali/GetMyNFT/assets/98390062/8a398488-1182-4819-a31f-4789c0abfa90)
+![Screenshot (745)](https://github.com/nageshmali/GetMyNFT/assets/98390062/1eb6e850-9841-40b7-bbe2-868b8d1479b8)
+![Screenshot (746)](https://github.com/nageshmali/GetMyNFT/assets/98390062/56d41e5b-d39c-47cf-ba95-80c7baf6b863)
+![Screenshot (747)](https://github.com/nageshmali/GetMyNFT/assets/98390062/47fe6290-d69b-46ab-a194-5200b81c4735)
+![Screenshot (749)](https://github.com/nageshmali/GetMyNFT/assets/98390062/ba8cd17a-6b64-4f7d-9711-17b12a435f3d)
+![Screenshot (748)](https://github.com/nageshmali/GetMyNFT/assets/98390062/019da635-775c-4f22-82d1-64dcc1b57a98)
